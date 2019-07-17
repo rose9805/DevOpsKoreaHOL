@@ -6,17 +6,17 @@
 		<changefreq>daily</changefreq>
 	</url>
 	<url>
-		<loc>http://rose9805.github.io/DevOpsKoreaHOL/index.html</loc>
-		<lastmod>2019-07-17</lastmod>
-		<changefreq>daily</changefreq>
-	</url>
-	<url>
 		<loc>http://rose9805.github.io/DevOpsKoreaHOL/alive.html</loc>
 		<lastmod>2019-07-17</lastmod>
 		<changefreq>daily</changefreq>
 	</url>
 	<url>
 		<loc>http://rose9805.github.io/DevOpsKoreaHOL/hol\hol.html</loc>
+		<lastmod>2019-07-17</lastmod>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>http://rose9805.github.io/DevOpsKoreaHOL/index.html</loc>
 		<lastmod>2019-07-17</lastmod>
 		<changefreq>daily</changefreq>
 	</url>
